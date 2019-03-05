@@ -34,6 +34,6 @@ app.put('/', (erq, res) => {
 })
 //Método que permite al srvidor web escuchar en un puerto específico
 app.listen(3000), () => {
-    console.log('El servidor est acorreiendo en http://localhost:3000')
+    console.log('El servidor esta ejecutandose en http://localhost:3000')
 }
 
